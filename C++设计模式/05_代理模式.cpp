@@ -19,6 +19,7 @@ using namespace std;
 客户     助理Proxy     老板 委托类
 
 代理类和委托类之间是一个组合的关系
+代理类用来控制委托类的访问权限问题
 */
 
 class VideoSite // #1 抽象类
